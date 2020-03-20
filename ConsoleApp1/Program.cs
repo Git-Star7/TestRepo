@@ -9,7 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Herrooooo");
             Console.WriteLine("How are you doing?");
             Console.WriteLine("Hi Mike!");
-            Console.WriteLine("hey Shamita");
+
         }
     }
 }
